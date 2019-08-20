@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3928527913",
+    "firebase_url": "https://chatapp-933f5.firebaseio.com",
+    "project_id": "chatapp-933f5",
+    "storage_bucket": "chatapp-933f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3928527913:android:4347b41a4783498c",
+        "android_client_info": {
+          "package_name": "com.rachitpanwar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3928527913-ivneqat78614futm2dfv6d424jrird84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rachitpanwar.chatapp",
+            "certificate_hash": "2367052fd73a8b5bb97c777179ef60bcebd41484"
+          }
+        },
+        {
+          "client_id": "3928527913-k125hpjop5eueihtbbd6b8d70id4u19v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2I5D0lzobIqx-Vqicrf5EEUKX1hzDKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3928527913-k125hpjop5eueihtbbd6b8d70id4u19v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
